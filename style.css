@@ -1,0 +1,16 @@
+.padre {
+    display: flex;
+    justify-content: center; /* Centra el contenido de forma horizontal*/
+    align-items: center; /* Centra el contenido de forma vertical */
+    width: 500px;
+    height: 500px;
+    margin: 300px auto;
+    border-radius: 10px;
+    background-color:rgb(123, 184, 32)
+}
+
+.hijo{
+    background-color:rgb(70, 11, 70); 
+    padding: 70px; 
+    border-radius: 10px; 
+}
